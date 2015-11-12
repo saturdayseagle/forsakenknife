@@ -1,6 +1,6 @@
 (ns forsakenknife.core-test
   (:require [clojure.test :refer :all]))
-;	    (:require [easterntombstone/forsakenknife.core])
+	    (:require [easterntombstone/forsakenknife.core])
 
 (deftest a-test
   (testing "FIXME, I fail."
