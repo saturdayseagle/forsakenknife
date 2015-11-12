@@ -9,6 +9,6 @@
 
 (deftest b-test
   (testing "FIXME, I fail."
-;    (println (foo "NO"))
+    (println (foo "NO"))
     (is (= 0 1))
     ))
