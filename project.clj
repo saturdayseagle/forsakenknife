@@ -4,7 +4,6 @@
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :repositories [
-;  		["file", "file:///home/vagrant/working/easterntombstone/forsakenknife/loneviper"]
   		["net", {:url "https://raw.githubusercontent.com/easterntombstone/loneviper/master"}]
   ]
   :dependencies [[org.clojure/clojure "1.7.0"] [easterntombstone/forsakenknife "0.2.0-SNAPSHOT"]]

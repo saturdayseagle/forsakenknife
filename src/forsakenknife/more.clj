@@ -1,4 +1,4 @@
-(ns forsakenknife.core
+(ns forsakenknife.more
   (:gen-class))
 
 (defn -main
