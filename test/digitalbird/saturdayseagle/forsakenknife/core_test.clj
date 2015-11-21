@@ -1,4 +1,4 @@
-(ns forsakenknife.core-test
+(ns digitalbird.saturdayseagle.forsakenknife.core-test
   (:require
   [clojure.test :refer :all]
   [forsakenknife.core :refer :all]
