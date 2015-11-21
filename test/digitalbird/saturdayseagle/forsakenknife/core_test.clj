@@ -1,7 +1,7 @@
 (ns digitalbird.saturdayseagle.forsakenknife.core-test
   (:require
   [clojure.test :refer :all]
-  [forsakenknife.core :refer :all]
+  [digitalbird.easterntombstone.forsakenknife.core :refer :all]
 ))
 (deftest a-test
   (testing "FIXME, I fail."

@@ -1,4 +1,4 @@
-(ns digitalbird.saturdayseagle.forsakenknife.more
+(ns digitalbird.saturdayseagle.forsakenknife.core
   (:gen-class))
 
 (defn -main
